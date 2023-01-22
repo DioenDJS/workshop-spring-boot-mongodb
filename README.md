@@ -37,34 +37,25 @@ Projeto
 ## Como executar :gear:
 
 - Clone o repositório `https://github.com/DioenDJS/workshop-spring-boot-mongodb.git`.
-<!-- - Ao final a aplicação estará disponível em `http://localhost:3000`. -->
+- Ao final a aplicação estará disponível em `http://localhost:8080`. 
 
 
 ## Dependências do Projetos no arquivo pom.xml :card_index_dividers:
-<!-- ```
+```
 <dependency>
     <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-data-jpa</artifactId>
+    <artifactId>spring-boot-starter-data-mongodb</artifactId>
 </dependency>
-
-<dependency>
-    <groupId>com.h2database</groupId>
-    <artifactId>h2</artifactId>
-    <scope>runtime</scope>
-</dependency>
-``` -->
-<!-- ## Importe Insomnia
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Spring%20Boot%20-%20JPA&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDioenDJS%2Fworkshop-springboot-jpa%2Fmain%2FInsomnia.json)
+``` 
+<!-- ## Importe Insomnia -->
 
 ## Methods HTTP no Insomnia:
 
 ### User
 
-#### Criar Usuário
-![image](https://user-images.githubusercontent.com/76778401/212481537-2aba2480-004c-4ece-adcd-529de3e85d18.png)
-
 #### Listagem de usuários
-![image](https://user-images.githubusercontent.com/76778401/210287244-c557a85c-96cd-4c33-b1ba-d577f3d22ec7.png) -->
+![image](https://user-images.githubusercontent.com/76778401/213925524-cfe124a6-87ee-4a34-bed1-10c37041709b.png)
+
 
 
 
